@@ -4,3 +4,6 @@
 
 # KoroAI
 This is the Landing page of the Koro.AI Project.
+
+### Project URL
+https://koroai.streamlit.app
