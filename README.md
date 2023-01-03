@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="attachments/koro_icon.png" alt="Project Icon"/>
+  <img src="attachments/koro_icon.png" alt="Project Icon" height = 250 width = 250/>
 </p>
 
 # KoroAI
