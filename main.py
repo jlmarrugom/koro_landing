@@ -1,11 +1,11 @@
 import streamlit as st
 st.set_page_config(
     page_title="KoroAI",
-    page_icon="attachments\koro_icon.png"
+    page_icon="attachments/koro_icon.png"
 )
 
 c1,c2 = st.columns([1,3])
-c1.image("attachments\koro_icon_dark.png")
+c1.image("attachments/koro_icon_dark.png")
 c2.title("This is the KoroAI Project Page")
 st.write(
     """
